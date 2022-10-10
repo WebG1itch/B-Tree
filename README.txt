@@ -1,4 +1,4 @@
-The program itself is pretty simple to run. Simply type 'make' in tesla and it will ask you to define n
+The program itself is pretty simple to run. Simply type 'make' and it will ask you to define n
 to define n, type a number and press enter. If your number is less than 400, it will automatically make n 400.
 
 The program will print out the order in which it inserted the numbers.
